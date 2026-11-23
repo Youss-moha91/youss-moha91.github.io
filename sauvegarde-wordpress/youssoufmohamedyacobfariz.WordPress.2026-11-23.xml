@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress.com" created="2026-11-23 20:52"-->
+	<!-- generator="WordPress.com" created="2026-11-23 21:43"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Youssouf Mohamed Yacob Fariz</title>
 	<link>https://youssoufmohamedyf7.wordpress.com</link>
 	<description>Étudiant en BUT Réseaux &#38; Télécommunications</description>
-	<pubDate>Mon, 23 Nov 2026 20:52:47 +0000</pubDate>
+	<pubDate>Mon, 23 Nov 2026 21:43:01 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wordpress.com/</wp:base_site_url>
@@ -100,7 +100,7 @@
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontSize":"small","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":31,"width":"149px","height":"auto","aspectRatio":"0.9188801148600143","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
@@ -117,12 +117,12 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"fontSize":"medium"} -->
-<h2 class="wp-block-heading has-medium-font-size">Étudiant en BUT Réseaux &amp; Télécommunications</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"medium","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family has-medium-font-size">Étudiant en BUT Réseaux &amp; Télécommunications</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Je m'appelle Youssouf, je suis en 1re année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry. Passionné par les réseaux, la cybersécurité et le Cloud, mon objectif est de devenir Ingénieur d'affaires Cloud : faire le lien entre la technique et les besoins des entreprises.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Je m'appelle Youssouf, je suis en 1re année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry. Passionné par les réseaux, la cybersécurité et le Cloud, mon objectif est de devenir Ingénieur d'affaires Cloud : faire le lien entre la technique et les besoins des entreprises.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
@@ -130,8 +130,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <!-- /wp:spacer -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/">Découvrir mes projets</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/" style="font-weight:400">Découvrir mes projets</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -139,23 +139,19 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Derniers Articles</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Derniers Articles</h2>
 <!-- /wp:heading -->
 
 <!-- wp:latest-posts /-->
 
-<!-- wp:categories /-->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+<!-- wp:categories /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:25:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:25:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 21:26:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 20:26:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:32:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:32:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[accueil]]></wp:post_name>
@@ -189,95 +185,95 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=8</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Qui suis-je ?</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Qui suis-je ?</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Étudiant en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je m'intéresse aux réseaux, aux systèmes et à la cybersécurité. Président de l'association Tech'N'Fix, j'aime mettre la technique au service des autres.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Étudiant en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je m'intéresse aux réseaux, aux systèmes et à la cybersécurité. Président de l'association Tech'N'Fix, j'aime mettre la technique au service des autres.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Mon CV</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"space-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-space-mono-font-family">Mon CV</h2>
 <!-- /wp:heading -->
 
-<!-- wp:file {"id":81,"href":"https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf","displayPreview":false} -->
-<div class="wp-block-file"><a id="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0" href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf">CV Youssouf MOHAMED YACOB FARIZ</a><a href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0">Download</a></div>
+<!-- wp:file {"id":81,"href":"https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf","displayPreview":false,"fontFamily":"space-mono"} -->
+<div class="wp-block-file has-space-mono-font-family"><a id="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0" href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf">CV Youssouf MOHAMED YACOB FARIZ</a><a href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Mon projet professionnel</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Mon projet professionnel</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Je recherche une alternance de 2 ans en systèmes et réseaux à partir de septembre 2027 (rythme 2 semaines IUT / 2 semaines entreprise), avec une orientation cybersécurité.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Je recherche une alternance de 2 ans en systèmes et réseaux à partir de septembre 2027 (rythme 2 semaines IUT / 2 semaines entreprise), avec une orientation cybersécurité.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">À plus long terme, je souhaite poursuivre en MSc Cloud Computing puis en école de commerce, pour devenir ingénieur d'affaires Cloud : faire le lien entre les solutions techniques et les besoins des entreprises.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">À plus long terme, je souhaite poursuivre en MSc Cloud Computing puis en école de commerce, pour devenir ingénieur d'affaires Cloud : faire le lien entre les solutions techniques et les besoins des entreprises.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Lettre de motivation</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Lettre de motivation</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Madame, Monsieur,</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Madame, Monsieur,</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Actuellement en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je recherche une alternance de deux ans à partir de septembre 2027 dans les réseaux.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Actuellement en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je recherche une alternance de deux ans à partir de septembre 2027 dans les réseaux.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Passionné d'informatique et de réseaux, j'ai fondé et je préside l'association Tech'N'Fix, qui reconditionne des ordinateurs pour des personnes en situation de précarité. Cette expérience m'a appris à diagnostiquer et installer des systèmes, mais aussi à organiser une équipe en prenant des stagiaires sous mon tutorat.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Passionné d'informatique et de réseaux, j'ai fondé et je préside l'association Tech'N'Fix, qui reconditionne des ordinateurs pour des personnes en situation de précarité. Cette expérience m'a appris à diagnostiquer et installer des systèmes, mais aussi à organiser une équipe en prenant des stagiaires sous mon tutorat.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Rigoureux et motivé, je souhaite mettre ces qualités au service de votre entreprise tout en développant mes compétences, notamment en cybersécurité.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Rigoureux et motivé, je souhaite mettre ces qualités au service de votre entreprise tout en développant mes compétences, notamment en cybersécurité.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Je vous remercie de l'attention portée à ma candidature.<br>Youssouf MOHAMED YACOB FARIZ</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Je vous remercie de l'attention portée à ma candidature.<br>Youssouf MOHAMED YACOB FARIZ</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Centres d'intérêt</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Centres d'intérêt</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Football</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Football</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Marketing et Commerce</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Marketing et Commerce</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Veille Technologique </li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Veille Technologique </li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -285,25 +281,25 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Langues</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Langues</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Français (courant)</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Français (courant)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Tamoul (courant)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Tamoul (courant)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Anglais (B1)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Anglais (B1)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Espagnol (A2)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Espagnol (A2)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -311,8 +307,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ma vidéo de présentation</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Ma vidéo de présentation</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -322,8 +318,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:29:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 20:17:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 19:17:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:33:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:33:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-propos]]></wp:post_name>
@@ -357,55 +353,55 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Who am I ?</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Who am I ?</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">My name is Youssouf, and I am a first-year student in Networks and Telecommunications (BUT R&amp;T) at the IUT of Créteil-Vitry, near Paris. I am interested in networks, systems and cybersecurity. I am also the president of Tech'N'Fix, a non-profit association that refurbishes computers for people in need.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">My name is Youssouf, and I am a first-year student in Networks and Telecommunications (BUT R&amp;T) at the IUT of Créteil-Vitry, near Paris. I am interested in networks, systems and cybersecurity. I am also the president of Tech'N'Fix, a non-profit association that refurbishes computers for people in need.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">My career goals</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My career goals</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">I am looking for a two-year work-study position (alternance) in systems and networks, starting in September 2027. In the long term, I would like to study Cloud Computing and business, to become a Cloud Sales Engineer.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">I am looking for a two-year work-study position (alternance) in systems and networks, starting in September 2027. In the long term, I would like to study Cloud Computing and business, to become a Cloud Sales Engineer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">My skills</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My skills</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Networking basics (IP addressing)</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Networking basics (IP addressing)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Windows and Linux</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Windows and Linux</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">HTML, CSS and WordPress</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">HTML, CSS and WordPress</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Teamwork and organisation</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Teamwork and organisation</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -413,25 +409,25 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Languages</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Languages</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>French (fluent)</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">French (fluent)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item -->
-<li>Tamil (fluent)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Tamil (fluent)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item -->
-<li>English (B1)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">English (B1)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item -->
-<li>Spanish (A2)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Spanish (A2)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -439,21 +435,21 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Interests</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Interests</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>Football</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Football</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item -->
-<li>Marketing and Business</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Marketing and Business</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item -->
-<li>Tech Watch</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Tech Watch</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -464,8 +460,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 20:17:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 19:17:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:34:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:34:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-me]]></wp:post_name>
@@ -499,46 +495,46 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
-<h2 class="wp-block-heading has-text-align-center has-large-font-size">Formations</h2>
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontSize":"large","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family has-large-font-size" style="color:#00ff84">Formations</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Septembre 2026 - Aujourd'hui</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Septembre 2026 - Aujourd'hui</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h3 class="wp-block-heading has-white-color has-text-color has-link-color">BUT Réseaux &amp; Télécommunications</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">BUT Réseaux &amp; Télécommunications</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">IUT de Créteil-Vitry — Université Paris-Est Créteil</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">IUT de Créteil-Vitry — Université Paris-Est Créteil</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"30px"} -->
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Septembre 2024 - Juillet 2026</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Septembre 2024 - Juillet 2026</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h3 class="wp-block-heading has-white-color has-text-color has-link-color">Baccalauréat STI2D, option SIN - Mention Bien</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">Baccalauréat STI2D, option SIN - Mention Bien</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Lycée Georges Brassens - Évry-Courcouronnes</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Lycée Georges Brassens - Évry-Courcouronnes</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -553,88 +549,88 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
-<h2 class="wp-block-heading has-text-align-center">Expériences professionnelles et associatives</h2>
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Expériences professionnelles et associatives</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Juin 2025 - Aujourd'hui</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juin 2025 - Aujourd'hui</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color">Président - Tech'N'Fix</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Président - Tech'N'Fix</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Association de reconditionnement d'ordinateurs destinés aux publics en situation de précarité, à Évry-Courcouronnes.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Association de reconditionnement d'ordinateurs destinés aux publics en situation de précarité, à Évry-Courcouronnes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Juillet - Août 2026</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juillet - Août 2026</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color">Manutentionnaire Logistique - Viaposte</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Manutentionnaire Logistique - Viaposte</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Expédition nationale de colis (chargement et déchargement de camions) au sein d'une filiale de La Poste, à Chilly-Mazarin.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Expédition nationale de colis (chargement et déchargement de camions) au sein d'une filiale de La Poste, à Chilly-Mazarin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Juin 2024</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juin 2024</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color">Stagiaire - DDT 91 / Préfecture d'Évry</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Stagiaire - DDT 91 / Préfecture d'Évry</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Classement d'atlas et de cartes à l'aide d'Excel.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Classement d'atlas et de cartes à l'aide d'Excel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Janvier 2024</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Janvier 2024</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color">Intervention informatique - Arkema (Bostik)</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Intervention informatique - Arkema (Bostik)</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Participation à l'installation d'un serveur physique, à Coubert.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Participation à l'installation d'un serveur physique, à Coubert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Mars 2023</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Mars 2023</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color">Stage d'observation - Hybrigenics Services d'Évry</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Stage d'observation - Hybrigenics Services d'Évry</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Observation d'un administrateur système et réseau</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Observation d'un administrateur système et réseau</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -649,33 +645,33 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
-<h2 class="wp-block-heading has-text-align-center">Compétences</h2>
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Compétences</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Techniques</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Techniques</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Réseaux : adressage IP, notions de protocoles</li>
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Réseaux : adressage IP, notions de protocoles</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Systèmes : Windows, notions de Linux</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Systèmes : Windows, notions de Linux</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Web : HTML, CSS, WordPress</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Web : HTML, CSS, WordPress</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Notions de cybersécurité et de virtualisation</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Notions de cybersécurité et de virtualisation</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -683,29 +679,29 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Professionnelles</h3>
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Professionnelles</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Travail en équipe</li>
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Travail en équipe</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Organisation</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Organisation</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Communication</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Communication</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Autonomie</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Autonomie</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Accueil du public</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Accueil du public</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -721,20 +717,20 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
-<h2 class="wp-block-heading has-text-align-center">Certifications </h2>
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"open-sans"} -->
+<h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color has-link-color has-open-sans-font-family">Certifications </h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">4 octobre 2026</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">4 octobre 2026</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Google AI Essentials</h3>
+<!-- wp:heading {"level":3,"fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-ibm-plex-mono-font-family">Google AI Essentials</h3>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -749,24 +745,24 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
-<h2 class="wp-block-heading has-text-align-center">Projets de formation</h2>
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Projets de formation</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Novembre - Décembre 2026</p>
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Novembre - Décembre 2026</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">SAÉ 14 - Se présenter sur Internet</h3>
+<!-- wp:heading {"level":3,"fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-ibm-plex-mono-font-family">SAÉ 14 - Se présenter sur Internet</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Conception de mon identité numérique professionnelle : création de ce site avec WordPress, d'une page personnelle en HTML hébergée sur GitHub, sauvegarde du site avec Git et réalisation d'une vidéo de présentation.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Conception de mon identité numérique professionnelle : création de ce site avec WordPress, d'une page personnelle en HTML hébergée sur GitHub, sauvegarde du site avec Git et réalisation d'une vidéo de présentation.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"39px"} -->
@@ -774,8 +770,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <!-- /wp:spacer -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/">Voir mes projets personnels</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontWeight":"400"},"color":{"text":"#00994f"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/" style="color:#00994f;font-weight:400">Voir mes projets personnels</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -786,8 +782,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:29:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 19:58:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 18:58:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:40:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:40:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[experiences]]></wp:post_name>
@@ -821,27 +817,27 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=14</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Retrouvez ici mes projets personnels et associatifs, réalisés en dehors de ma formation.</p>
+<!-- wp:paragraph {"textColor":"primary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-primary-color has-text-color has-space-mono-font-family has-small-font-size">Retrouvez ici mes projets personnels et associatifs, réalisés en dehors de ma formation.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">🤖 Jarvis : mon assistant vocal personnel</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Jarvis : mon assistant vocal personnel</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Un assistant intelligent que je conçois en Python, capable de comprendre la voix et de répondre à voix haute.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Un assistant intelligent que je conçois en Python, capable de comprendre la voix et de répondre à voix haute.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/jarvis/">En savoir plus</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill","style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/jarvis/" style="font-weight:400">En savoir plus</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -849,25 +845,25 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">♻️ Tech'N'Fix : association de reconditionnement</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Tech'N'Fix : association de reconditionnement</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">L'association que j'ai fondée pour redonner vie à des ordinateurs et les rendre accessibles aux personnes en situation de précarité.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">L'association que j'ai fondée pour redonner vie à des ordinateurs et les rendre accessibles aux personnes en situation de précarité.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/technfix/">En savoir plus</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/technfix/" style="font-weight:400">En savoir plus</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:30:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 20:24:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 19:24:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:38:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:38:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[projets]]></wp:post_name>
@@ -901,43 +897,43 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=16</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">L'association</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">L'association</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">J'ai fondé Tech'N'Fix en juin 2025 à Évry-Courcouronnes, et j'en suis le président. L'association reconditionne des ordinateurs pour les rendre accessibles aux personnes en situation de précarité.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">J'ai fondé Tech'N'Fix en juin 2025 à Évry-Courcouronnes, et j'en suis le président. L'association reconditionne des ordinateurs pour les rendre accessibles aux personnes en situation de précarité.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Nos missions</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Nos missions</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Reconditionner et réparer du matériel informatique</li>
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Reconditionner et réparer du matériel informatique</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Lutter contre le gaspillage électronique</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Lutter contre le gaspillage électronique</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Favoriser l'accès au numérique pour tous</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Favoriser l'accès au numérique pour tous</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Transmettre des compétences techniques</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Transmettre des compétences techniques</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -945,12 +941,12 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Mon rôle</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mon rôle</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">En tant que président, j'organise l'association, je participe au diagnostic et à la remise en état des ordinateurs, je trouve des personnes pour nous faire des dons, et j'encadre des stagiaires en tant que tuteur.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">En tant que président, j'organise l'association, je participe au diagnostic et à la remise en état des ordinateurs, je trouve des personnes pour nous faire des dons, et j'encadre des stagiaires en tant que tuteur.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -963,8 +959,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <!-- /wp:image -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.instagram.com/tech_n_fix">Découvrir Tech'N'Fix sur Instagram</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://www.instagram.com/tech_n_fix" style="font-weight:400">Découvrir Tech'N'Fix sur Instagram</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
@@ -976,8 +972,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:30:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 20:55:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 19:55:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:41:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:41:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[technfix]]></wp:post_name>
@@ -1011,47 +1007,47 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Le projet</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Le projet</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Jarvis est un assistant personnel que je conçois depuis novembre 2026. Mon objectif : pouvoir lui parler à voix haute et obtenir des réponses pertinentes. Je le développe en Python avec l'aide de Claude Code, un assistant de programmation par IA : je définis le projet et les fonctionnalités, je choisis les outils, puis je teste et corrige chaque étape sur mon PC.</p>
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Jarvis est un assistant personnel que je conçois depuis novembre 2026. Mon objectif : pouvoir lui parler à voix haute et obtenir des réponses pertinentes. Je le développe en Python avec l'aide de Claude Code, un assistant de programmation par IA : je définis le projet et les fonctionnalités, je choisis les outils, puis je teste et corrige chaque étape sur mon PC.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"15px"} -->
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ce qui fonctionne déjà</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Ce qui fonctionne déjà</h2>
 <!-- /wp:heading -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Conversation avec une intelligence artificielle qui tourne en local sur mon PC (Ollama, modèle Llama 3.1)</li>
+<!-- wp:list {"fontFamily":"space-mono"} -->
+<ul class="wp-block-list has-space-mono-font-family"><!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Conversation avec une intelligence artificielle qui tourne en local sur mon PC (Ollama, modèle Llama 3.1)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Une voix pour répondre à l'oral (Piper)</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Une voix pour répondre à l'oral (Piper)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">La reconnaissance vocale pour comprendre ce que je dis (Whisper)</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">La reconnaissance vocale pour comprendre ce que je dis (Whisper)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Une mémoire : Jarvis retient les informations que je lui demande de garder</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Une mémoire : Jarvis retient les informations que je lui demande de garder</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Une interface web pour discuter avec Jarvis</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Une interface web pour discuter avec Jarvis</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -1059,33 +1055,33 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Technologies utilisées</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Technologies utilisées</h2>
 <!-- /wp:heading -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Python</li>
+<!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<ul class="wp-block-list has-contrast-color has-text-color has-link-color"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Python</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Ollama</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Ollama</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Piper</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Piper</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Whisper</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Whisper</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Git et GitHub</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Git et GitHub</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Claude Code (assistant IA)</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Claude Code (assistant IA)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -1100,8 +1096,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:30:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 20:56:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 19:56:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:39:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:39:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jarvis]]></wp:post_name>
@@ -1135,7 +1131,7 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=20</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:paragraph -->
 <p></p>
@@ -1144,8 +1140,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:31:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:31:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 21:16:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 20:16:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:23:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:23:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1179,27 +1175,27 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=22</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"center"}} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
 
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Vous avez une question ? N'hésitez pas à m'écrire.</p>
+<!-- wp:paragraph {"textColor":"primary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-primary-color has-text-color has-space-mono-font-family has-small-font-size">Vous avez une question ? N'hésitez pas à m'écrire.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Mes coordonnées</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mes coordonnées</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">E-mail : <a href="mailto:myf.youssouf91@gmail.com">myf.youssouf91@gmail.com</a></li>
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">E-mail : <a href="mailto:myf.youssouf91@gmail.com">myf.youssouf91@gmail.com</a></li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Localisation : Évry-Courcouronnes (Essonne)</li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Localisation : Évry-Courcouronnes (Essonne)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -1207,8 +1203,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Mes réseaux</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mes réseaux</h2>
 <!-- /wp:heading -->
 
 <!-- wp:social-links {"showLabels":true,"className":"is-style-pill-shape","layout":{"type":"flex","justifyContent":"left"}} -->
@@ -1223,21 +1219,21 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ma formation</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Ma formation</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size"><a href="https://iut.u-pec.fr">IUT de Créteil-Vitry</a></li>
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://iut.u-pec.fr">IUT de Créteil-Vitry</a></li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size"><a href="https://www.u-pec.fr">Université Paris-Est Créteil</a></li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://www.u-pec.fr">Université Paris-Est Créteil</a></li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size"><a href="https://www.formadep360.fr/Extra/extra_edt?dep=14">Mon emploi du temps</a></li>
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://www.formadep360.fr/Extra/extra_edt?dep=14">Mon emploi du temps</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -1248,8 +1244,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 14:31:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 13:31:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 21:50:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 20:50:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:42:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:42:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1861,42 +1857,38 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?p=130</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Dans le cadre de la SAÉ 14 de mon BUT Réseaux et Télécommunications, j'ai créé ce site pour construire mon identité numérique professionnelle.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Dans le cadre de la SAÉ 14 de mon BUT Réseaux et Télécommunications, j'ai créé ce site pour construire mon identité numérique professionnelle.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":""} -->
 <div aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ce que j'ai appris</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Ce que j'ai appris</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Comprendre la différence entre une page (contenu fixe) et un article (contenu daté)</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Organiser un site avec des pages parentes et des pages enfants</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Organiser un site avec des pages parentes et des pages enfants</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Construire une page avec des blocs : titres, images, boutons, colonnes</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Construire une page avec des blocs : titres, images, boutons, colonnes</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Intégrer des contenus externes, comme une vidéo YouTube</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Intégrer des contenus externes, comme une vidéo YouTube</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Ce que je retiens</h2>
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Ce que je retiens</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Un site en ligne est visible par tout le monde : il faut choisir avec soin ce que l'on publie. J'ai par exemple décidé de ne pas afficher mon numéro de téléphone, pour protéger ma vie privée.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Un site en ligne est visible par tout le monde donc il faut faire attention à ce que l'on publie. J'ai par exemple décidé de ne pas afficher mon numéro de téléphone, pour protéger ma vie privée.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -1910,8 +1902,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 21:04:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 20:04:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 21:22:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 20:22:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:31:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:31:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[creer-son-site-wordpress-ce-que-jai-appris]]></wp:post_name>
@@ -1965,34 +1957,34 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
 		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?p=134</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Avec mon association Tech'N'Fix, nous redonnons vie à des ordinateurs. Voici les grandes étapes que nous suivons.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Avec mon association Tech'N'Fix, nous redonnons vie à des ordinateurs. Voici les grandes étapes que nous suivons.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Le diagnostic : vérifier si l'ordinateur démarre et identifier les pièces défectueuses</li>
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Vérifier si l'ordinateur démarre et identifier les pièces défectueuses</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Le nettoyage : dépoussiérer l'intérieur, surtout les ventilateurs</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Dépoussiérer l'intérieur, surtout les ventilateurs</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Le remplacement des pièces : par exemple installer un SSD ou ajouter de la RAM</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Remplacer des pièces manquantes (par exemple de la RAM)</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">La réinstallation du système : installer un Windows ou un Linux propre</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Installer un Windows ou un Linux propre</li>
 <!-- /wp:list-item -->
 
-<!-- wp:list-item {"fontSize":"small"} -->
-<li class="has-small-font-size">Les tests : vérifier que tout fonctionne avant de donner l'ordinateur</li>
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Vérifier que tout fonctionne avant de donner l'ordinateur</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Un ordinateur reconditionné, c'est un appareil de moins à la poubelle, et une personne de plus qui a accès au numérique.</p>
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Un ordinateur reconditionné, c'est un appareil de moins à la poubelle, et une personne de plus qui a accès au numérique.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":146,"width":"241px","height":"auto","aspectRatio":"0.5102780435475921","sizeSlug":"large","linkDestination":"none"} -->
@@ -2002,8 +1994,8 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 21:09:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 20:09:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 21:21:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 20:21:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:28:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:28:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[reconditionner-un-ordinateur-les-grandes-etapes]]></wp:post_name>
