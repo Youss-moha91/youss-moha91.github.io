@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress.com" created="2026-11-23 21:54"-->
+	<!-- generator="WordPress.com" created="2026-11-24 12:22"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Youssouf Mohamed Yacob Fariz</title>
 	<link>https://youssoufmohamedyf7.wordpress.com</link>
 	<description>Étudiant en BUT Réseaux &#38; Télécommunications</description>
-	<pubDate>Mon, 23 Nov 2026 21:54:18 +0000</pubDate>
+	<pubDate>Tue, 24 Nov 2026 12:22:23 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wordpress.com/</wp:base_site_url>
@@ -94,1185 +94,6 @@
 	</image>
 	
 		<item>
-		<title><![CDATA[Accueil]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/</link>
-		<pubDate>Mon, 23 Nov 2026 13:25:04 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontSize":"small","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":31,"width":"149px","height":"auto","aspectRatio":"0.9188801148600143","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/photo.png?w=940" alt="" class="wp-image-31" style="aspect-ratio:0.9188801148600143;width:149px;height:auto" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:code {"tokenizedLines":[[["JCB3aG9hbWk="]],[["WW91c3NvdWYgTU9IQU1FRCBZQUNPQiBGQVJJWg=="]]]} -->
-<pre class="wp-block-code"><code>$ whoami
-Youssouf MOHAMED YACOB FARIZ</code></pre>
-<!-- /wp:code --></div>
-<!-- /wp:group -->
-
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"medium","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family has-medium-font-size">Étudiant en BUT Réseaux &amp; Télécommunications</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-space-mono-font-family has-small-font-size">Je m'appelle Youssouf, je suis en 1re année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry. Passionné par les réseaux, la cybersécurité et le Cloud, mon objectif est de devenir Ingénieur d'affaires Cloud : faire le lien entre la technique et les besoins des entreprises.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/" style="font-weight:400">Découvrir mes projets</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Derniers Articles</h2>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /-->
-
-<!-- wp:categories /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:25:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:25:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:32:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:32:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[accueil]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:25:05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[À propos]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/a-propos/</link>
-		<pubDate>Mon, 23 Nov 2026 13:29:07 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=8</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Qui suis-je ?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Étudiant en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je m'intéresse aux réseaux, aux systèmes et à la cybersécurité. Président de l'association Tech'N'Fix, j'aime mettre la technique au service des autres.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"space-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-space-mono-font-family">Mon CV</h2>
-<!-- /wp:heading -->
-
-<!-- wp:file {"id":81,"href":"https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf","displayPreview":false,"fontFamily":"space-mono"} -->
-<div class="wp-block-file has-space-mono-font-family"><a id="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0" href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf">CV Youssouf MOHAMED YACOB FARIZ</a><a href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0">Download</a></div>
-<!-- /wp:file -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Mon projet professionnel</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Je recherche une alternance de 2 ans en systèmes et réseaux à partir de septembre 2027 (rythme 2 semaines IUT / 2 semaines entreprise), avec une orientation cybersécurité.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">À plus long terme, je souhaite poursuivre en MSc Cloud Computing puis en école de commerce, pour devenir ingénieur d'affaires Cloud : faire le lien entre les solutions techniques et les besoins des entreprises.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Lettre de motivation</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Madame, Monsieur,</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Actuellement en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je recherche une alternance de deux ans à partir de septembre 2027 dans les réseaux.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Passionné d'informatique et de réseaux, j'ai fondé et je préside l'association Tech'N'Fix, qui reconditionne des ordinateurs pour des personnes en situation de précarité. Cette expérience m'a appris à diagnostiquer et installer des systèmes, mais aussi à organiser une équipe en prenant des stagiaires sous mon tutorat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Rigoureux et motivé, je souhaite mettre ces qualités au service de votre entreprise tout en développant mes compétences, notamment en cybersécurité.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Je vous remercie de l'attention portée à ma candidature.<br>Youssouf MOHAMED YACOB FARIZ</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Centres d'intérêt</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Football</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Marketing et Commerce</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Veille Technologique </li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Langues</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Français (courant)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Tamoul (courant)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Anglais (B1)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Espagnol (A2)</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Ma vidéo de présentation</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:29:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:48:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:48:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-propos]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:29:08]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[About me]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/a-propos/about-me/</link>
-		<pubDate>Mon, 23 Nov 2026 13:29:26 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Who am I ?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">My name is Youssouf, and I am a first-year student in Networks and Telecommunications (BUT R&amp;T) at the IUT of Créteil-Vitry, near Paris. I am interested in networks, systems and cybersecurity. I am also the president of Tech'N'Fix, a non-profit association that refurbishes computers for people in need.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My career goals</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">I am looking for a two-year work-study position (alternance) in systems and networks, starting in September 2027. In the long term, I would like to study Cloud Computing and business, to become a Cloud Sales Engineer.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My skills</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Networking basics (IP addressing)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Windows and Linux</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">HTML, CSS and WordPress</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Teamwork and organisation</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Languages</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">French (fluent)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Tamil (fluent)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">English (B1)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Spanish (A2)</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Interests</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Football</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Marketing and Business</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Tech Watch</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:29:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:48:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:48:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-me]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>8</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:29:27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Expériences]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/experiences/</link>
-		<pubDate>Mon, 23 Nov 2026 13:29:43 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=12</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontSize":"large","fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family has-large-font-size" style="color:#00ff84">Formations</h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Septembre 2026 - Aujourd'hui</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">BUT Réseaux &amp; Télécommunications</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">IUT de Créteil-Vitry — Université Paris-Est Créteil</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Septembre 2024 - Juillet 2026</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">Baccalauréat STI2D, option SIN - Mention Bien</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Lycée Georges Brassens - Évry-Courcouronnes</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Expériences professionnelles et associatives</h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juin 2025 - Aujourd'hui</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Président - Tech'N'Fix</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Association de reconditionnement d'ordinateurs destinés aux publics en situation de précarité, à Évry-Courcouronnes.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juillet - Août 2026</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Manutentionnaire Logistique - Viaposte</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Expédition nationale de colis (chargement et déchargement de camions) au sein d'une filiale de La Poste, à Chilly-Mazarin.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juin 2024</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Stagiaire - DDT 91 / Préfecture d'Évry</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Classement d'atlas et de cartes à l'aide d'Excel.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Janvier 2024</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Intervention informatique - Arkema (Bostik)</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Participation à l'installation d'un serveur physique, à Coubert.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Mars 2023</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Stage d'observation - Hybrigenics Services d'Évry</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Observation d'un administrateur système et réseau</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Compétences</h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Techniques</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Réseaux : adressage IP, notions de protocoles</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Systèmes : Windows, notions de Linux</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Web : HTML, CSS, WordPress</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Notions de cybersécurité et de virtualisation</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Professionnelles</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Travail en équipe</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Organisation</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Communication</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Autonomie</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Accueil du public</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"open-sans"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-open-sans-font-family" style="color:#00ff84">Certifications </h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">4 octobre 2026</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-ibm-plex-mono-font-family">Google AI Essentials</h3>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Projets de formation</h2>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Novembre - Décembre 2026</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3,"fontFamily":"ibm-plex-mono"} -->
-<h3 class="wp-block-heading has-ibm-plex-mono-font-family">SAÉ 14 - Se présenter sur Internet</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Conception de mon identité numérique professionnelle : création de ce site avec WordPress, d'une page personnelle en HTML hébergée sur GitHub, sauvegarde du site avec Git et réalisation d'une vidéo de présentation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"39px"} -->
-<div style="height:39px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontWeight":"400"},"color":{"text":"#00994f"}},"fontFamily":"space-mono"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/" style="color:#00994f;font-weight:400">Voir mes projets personnels</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:29:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:51:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:51:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[experiences]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:29:45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Projets]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/projets/</link>
-		<pubDate>Mon, 23 Nov 2026 13:30:01 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=14</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"primary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-primary-color has-text-color has-space-mono-font-family has-small-font-size">Retrouvez ici mes projets personnels et associatifs, réalisés en dehors de ma formation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Jarvis : mon assistant vocal personnel</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Un assistant intelligent que je conçois en Python, capable de comprendre la voix et de répondre à voix haute.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill","style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/jarvis/" style="font-weight:400">En savoir plus</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Tech'N'Fix : association de reconditionnement</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">L'association que j'ai fondée pour redonner vie à des ordinateurs et les rendre accessibles aux personnes en situation de précarité.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/technfix/" style="font-weight:400">En savoir plus</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:30:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:38:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:38:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[projets]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:30:02]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Tech'N'Fix]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/projets/technfix/</link>
-		<pubDate>Mon, 23 Nov 2026 13:30:30 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=16</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">L'association</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">J'ai fondé Tech'N'Fix en juin 2025 à Évry-Courcouronnes, et j'en suis le président. L'association reconditionne des ordinateurs pour les rendre accessibles aux personnes en situation de précarité.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Nos missions</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Reconditionner et réparer du matériel informatique</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Lutter contre le gaspillage électronique</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Favoriser l'accès au numérique pour tous</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Transmettre des compétences techniques</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mon rôle</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">En tant que président, j'organise l'association, je participe au diagnostic et à la remise en état des ordinateurs, je trouve des personnes pour nous faire des dons, et j'encadre des stagiaires en tant que tuteur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"30px"} -->
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"position":{"type":"sticky","top":"0px"}},"fontSize":"medium","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","orientation":"horizontal"}} -->
-<div class="wp-block-group has-medium-font-size" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"id":119,"width":"141px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf.jpeg?w=1024" alt="Logo de l'association Tech'N'Fix" class="wp-image-119" style="width:141px;height:auto" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://www.instagram.com/tech_n_fix" style="font-weight:400">Découvrir Tech'N'Fix sur Instagram</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:30:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:41:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:41:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[technfix]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>14</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:30:31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Jarvis]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/projets/jarvis/</link>
-		<pubDate>Mon, 23 Nov 2026 13:30:40 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Le projet</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Jarvis est un assistant personnel que je conçois depuis novembre 2026. Mon objectif : pouvoir lui parler à voix haute et obtenir des réponses pertinentes. Je le développe en Python avec l'aide de Claude Code, un assistant de programmation par IA : je définis le projet et les fonctionnalités, je choisis les outils, puis je teste et corrige chaque étape sur mon PC.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Ce qui fonctionne déjà</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list {"fontFamily":"space-mono"} -->
-<ul class="wp-block-list has-space-mono-font-family"><!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
-<li class="has-contrast-color has-text-color has-small-font-size">Conversation avec une intelligence artificielle qui tourne en local sur mon PC (Ollama, modèle Llama 3.1)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
-<li class="has-contrast-color has-text-color has-small-font-size">Une voix pour répondre à l'oral (Piper)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
-<li class="has-contrast-color has-text-color has-small-font-size">La reconnaissance vocale pour comprendre ce que je dis (Whisper)</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
-<li class="has-contrast-color has-text-color has-small-font-size">Une mémoire : Jarvis retient les informations que je lui demande de garder</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
-<li class="has-contrast-color has-text-color has-small-font-size">Une interface web pour discuter avec Jarvis</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Technologies utilisées</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
-<ul class="wp-block-list has-contrast-color has-text-color has-link-color"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-space-mono-font-family has-small-font-size">Python</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-space-mono-font-family has-small-font-size">Ollama</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-space-mono-font-family has-small-font-size">Piper</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-space-mono-font-family has-small-font-size">Whisper</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-space-mono-font-family has-small-font-size">Git et GitHub</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-space-mono-font-family has-small-font-size">Claude Code (assistant IA)</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:jetpack/slideshow {"ids":[115,116],"sizeSlug":"full"} -->
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(1917 / 868)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="Interface web de Jarvis, écran d'accueil" class="wp-block-jetpack-slideshow_image wp-image-115" data-id="115" data-aspect-ratio="1917 / 868" src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/capture-decran-2026-11-23-203009.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="Jarvis en train de répondre à une question" class="wp-block-jetpack-slideshow_image wp-image-116" data-id="116" data-aspect-ratio="1917 / 877" src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/capture-decran-2026-11-23-203106.png" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
-<!-- /wp:jetpack/slideshow -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:30:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:39:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:39:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[jarvis]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>14</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:30:41]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/blog/</link>
-		<pubDate>Mon, 23 Nov 2026 13:31:19 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:31:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:31:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:23:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:23:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:31:19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/contact/</link>
-		<pubDate>Mon, 23 Nov 2026 13:31:30 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=22</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph {"textColor":"primary","fontSize":"small","fontFamily":"space-mono"} -->
-<p class="has-primary-color has-text-color has-space-mono-font-family has-small-font-size">Vous avez une question ? N'hésitez pas à m'écrire.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mes coordonnées</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">E-mail : <a href="mailto:myf.youssouf91@gmail.com">myf.youssouf91@gmail.com</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Localisation : Évry-Courcouronnes (Essonne)</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mes réseaux</h2>
-<!-- /wp:heading -->
-
-<!-- wp:social-links {"showLabels":true,"className":"is-style-pill-shape","layout":{"type":"flex","justifyContent":"left"}} -->
-<ul class="wp-block-social-links has-visible-labels is-style-pill-shape"><!-- wp:social-link {"url":"https://www.linkedin.com/in/youssoufmohamed-yf","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://github.com/youss-moha91","service":"github"} /-->
-
-<!-- wp:social-link {"url":"mailto:myf.youssouf91@gmail.com","service":"mail"} /--></ul>
-<!-- /wp:social-links -->
-
-<!-- wp:spacer {"height":"15px"} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
-<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Ma formation</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://iut.u-pec.fr">IUT de Créteil-Vitry</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://www.u-pec.fr">Université Paris-Est Créteil</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
-<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://www.formadep360.fr/Extra/extra_edt?dep=14">Mon emploi du temps</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:31:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:31:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:42:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:42:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026-11-23 13:31:30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[photo]]></title>
 		<link>https://youssoufmohamedyf7.wordpress.com/accueil/photo/</link>
 		<pubDate>Mon, 23 Nov 2026 14:16:31 +0000</pubDate>
@@ -1644,6 +465,303 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/2026/11/23/creer-son-site-wordpress-ce-que-jai-appris/image/</link>
+		<pubDate>Tue, 24 Nov 2026 09:35:50 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>205</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 10:35:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 09:35:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 10:35:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 09:35:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>130</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1917;s:6:"height";i:867;s:4:"file";s:82:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image.png";s:8:"filesize";i:146146;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image.png]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Capture d'écran 2026-11-23 203009]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/projets/capture-decran-2026-11-23-203009-2/</link>
+		<pubDate>Tue, 24 Nov 2026 10:14:27 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/capture-decran-2026-11-23-203009-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>207</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 11:14:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 10:14:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 11:14:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 10:14:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[capture-decran-2026-11-23-203009-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>14</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/capture-decran-2026-11-23-203009-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/capture-decran-2026-11-23-203009-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1917;s:6:"height";i:868;s:4:"file";s:111:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/capture-decran-2026-11-23-203009-1.png";s:8:"filesize";i:436674;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/projets/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-4/</link>
+		<pubDate>Tue, 24 Nov 2026 10:23:44 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-1.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>209</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 11:23:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 10:23:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 11:23:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 10:23:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>14</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-1.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-1.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:1024;s:4:"file";s:116:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-1.jpeg";s:8:"filesize";i:59484;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[logoIUT]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/logoiut/</link>
+		<pubDate>Tue, 24 Nov 2026 11:12:03 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/logoiut.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>219</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:12:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:12:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:12:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:12:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logoiut]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/logoiut.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/logoiut.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:520;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/logoiut.jpg";s:8:"filesize";i:40460;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[images]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/images/</link>
+		<pubDate>Tue, 24 Nov 2026 11:12:44 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/images.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>220</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:12:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:12:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:12:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:12:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[images]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/images.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/images.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:738;s:6:"height";i:333;s:4:"file";s:83:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/images.png";s:8:"filesize";i:19144;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[images]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/images-2/</link>
+		<pubDate>Tue, 24 Nov 2026 11:13:36 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/images.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>221</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:13:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:13:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:13:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:13:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[images-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/images.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/images.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:738;s:6:"height";i:333;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/images.webp";s:8:"filesize";i:16986;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-5/</link>
+		<pubDate>Tue, 24 Nov 2026 11:18:39 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-2.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:18:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:18:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:18:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:18:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-2.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-2.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:1024;s:4:"file";s:116:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-2.jpeg";s:8:"filesize";i:59484;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/image-2/</link>
+		<pubDate>Tue, 24 Nov 2026 11:20:42 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>227</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:20:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:20:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:20:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:20:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1192;s:6:"height";i:649;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-1.png";s:8:"filesize";i:21427;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/image-3/</link>
+		<pubDate>Tue, 24 Nov 2026 11:23:42 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image-2.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>230</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:23:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:23:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:23:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:23:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-2.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-2.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:334;s:6:"height";i:188;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-2.png";s:8:"filesize";i:20637;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[About]]></title>
 		<link>https://youssoufmohamedyf7.wordpress.com/?page_id=1</link>
 		<pubDate>Mon, 23 Nov 2026 13:04:37 +0000</pubDate>
@@ -1798,30 +916,6 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://youssoufmohamedyf7.wordpress.com/2026/11/23/navigation/</link>
-		<pubDate>Mon, 23 Nov 2026 13:04:50 +0000</pubDate>
-		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
-		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/2026/11/23/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2026-11-23 14:04:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-11-23 13:04:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 16:27:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 15:27:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://youssoufmohamedyf7.wordpress.com/2026/11/23/wp-global-styles-pub%2fmpho/</link>
 		<pubDate>Mon, 23 Nov 2026 13:14:41 +0000</pubDate>
@@ -1848,6 +942,1253 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Accueil]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/</link>
+		<pubDate>Mon, 23 Nov 2026 13:25:04 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontSize":"small","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left","verticalAlignment":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":31,"width":"149px","height":"auto","aspectRatio":"0.9188801148600143","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/photo.png?w=940" alt="Photo de Youssouf MOHAMED YACOB FARIZ" class="wp-image-31" style="aspect-ratio:0.9188801148600143;width:149px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:code {"tokenizedLines":[[["JCB3aG9hbWk="]],[["WW91c3NvdWYgTU9IQU1FRCBZQUNPQiBGQVJJWg=="]]]} -->
+<pre class="wp-block-code"><code>$ whoami
+Youssouf MOHAMED YACOB FARIZ</code></pre>
+<!-- /wp:code --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"medium","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family has-medium-font-size">Étudiant en BUT Réseaux &amp; Télécommunications</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-space-mono-font-family has-small-font-size">Je m'appelle Youssouf, je suis en 1re année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry. Passionné par les réseaux, la cybersécurité et le Cloud, mon objectif est de devenir Ingénieur d'affaires Cloud : faire le lien entre la technique et les besoins des entreprises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/" style="font-weight:400">Découvrir mes projets</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Derniers Articles</h2>
+<!-- /wp:heading -->
+
+<!-- wp:latest-posts {"fontSize":"small"} /-->
+
+<!-- wp:categories {"fontSize":"small"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:25:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:25:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 13:10:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 12:10:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[accueil]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:25:05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[À propos]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/a-propos/</link>
+		<pubDate>Mon, 23 Nov 2026 13:29:07 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Qui suis-je ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Étudiant en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je m'intéresse aux réseaux, aux systèmes et à la cybersécurité. Président de l'association Tech'N'Fix, j'aime mettre la technique au service des autres.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"space-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-space-mono-font-family">Mon CV</h2>
+<!-- /wp:heading -->
+
+<!-- wp:file {"id":81,"href":"https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf","displayPreview":false,"fontFamily":"space-mono"} -->
+<div class="wp-block-file has-space-mono-font-family"><a id="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0" href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf">CV Youssouf MOHAMED YACOB FARIZ</a><a href="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/cv-youssouf-mohamed-yacob-fariz.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d111c33c-637f-4aab-b403-2655f9df0ea0">Download</a></div>
+<!-- /wp:file -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Mon projet professionnel</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Je recherche une alternance de 2 ans en systèmes et réseaux à partir de septembre 2027 (rythme 2 semaines IUT / 2 semaines entreprise), avec une orientation cybersécurité.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">À plus long terme, je souhaite poursuivre en MSc Cloud Computing puis en école de commerce, pour devenir ingénieur d'affaires Cloud : faire le lien entre les solutions techniques et les besoins des entreprises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Lettre de motivation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Madame, Monsieur,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Actuellement en première année de BUT Réseaux et Télécommunications à l'IUT de Créteil-Vitry, je recherche une alternance de deux ans à partir de septembre 2027 dans les réseaux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Passionné d'informatique et de réseaux, j'ai fondé et je préside l'association Tech'N'Fix, qui reconditionne des ordinateurs pour des personnes en situation de précarité. Cette expérience m'a appris à diagnostiquer et installer des systèmes, mais aussi à organiser une équipe en prenant des stagiaires sous mon tutorat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Rigoureux et motivé, je souhaite mettre ces qualités au service de votre entreprise tout en développant mes compétences, notamment en cybersécurité.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Je vous remercie de l'attention portée à ma candidature.<br>Youssouf MOHAMED YACOB FARIZ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Centres d'intérêt</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Football</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Marketing et Commerce</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Veille Technologique </li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Langues</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Français (courant)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Tamoul (courant)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Anglais (B1)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Espagnol (A2)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Ma vidéo de présentation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:29:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:48:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:48:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-propos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:29:08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About me]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/a-propos/about-me/</link>
+		<pubDate>Mon, 23 Nov 2026 13:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=10</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Who am I?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">My name is Youssouf, and I am a first-year student in Networks and Telecommunications (BUT R&amp;T) at the IUT of Créteil-Vitry, near Paris. I am interested in networks, systems and cybersecurity. I am also the president of Tech'N'Fix, a non-profit association that refurbishes computers for people in need.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My career goals</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">I am looking for a two-year work-study position (alternance) in systems and networks, starting in September 2027. In the long term, I would like to study Cloud Computing and business, to become a Cloud Sales Engineer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My skills</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Networking basics (IP addressing)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Windows and Linux</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">HTML, CSS and WordPress</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Teamwork and organisation</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Languages</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">French (fluent)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Tamil (fluent)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">English (B1)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Spanish (A2)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Interests</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Football</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Marketing and Business</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Tech Watch</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">My introduction video</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">The video is in French, with English subtitles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:29:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:57:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:57:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-me]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>8</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:29:27]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Expériences]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/</link>
+		<pubDate>Mon, 23 Nov 2026 13:29:43 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=12</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontSize":"large","fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family has-large-font-size" style="color:#00ff84">Formations</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":219,"width":"264px","height":"auto","aspectRatio":"1.9692890995260663","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/logoiut.jpg?w=1024" alt="Logo de l'UPEC et de l'IUT de Créteil-Vitry" class="wp-image-219" style="aspect-ratio:1.9692890995260663;width:264px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Septembre 2026 - Aujourd'hui</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">BUT Réseaux &amp; Télécommunications</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">IUT de Créteil-Vitry — Université Paris-Est Créteil</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":220,"width":"315px","height":"auto","aspectRatio":"2.2164497041420117","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/images.png?w=738" alt="Logo du lycée Georges Brassens" class="wp-image-220" style="aspect-ratio:2.2164497041420117;width:315px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Septembre 2024 - Juillet 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">Baccalauréat STI2D, option SIN - Mention Bien</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Lycée Georges Brassens - Évry-Courcouronnes</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Expériences professionnelles et associatives</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":225,"width":"150px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-2.jpeg?w=1024" alt="Logo de Tech'N'Fix" class="wp-image-225" style="width:150px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juin 2025 - Aujourd'hui</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">Président - Tech'N'Fix</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Association de reconditionnement d'ordinateurs destinés aux publics en situation de précarité, à Évry-Courcouronnes.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":227,"width":"274px","height":"auto","aspectRatio":"1.8367220650636493","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-1.png?w=1024" alt="Logo de Viaposte" class="wp-image-227" style="aspect-ratio:1.8367220650636493;width:274px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juillet - Août 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color has-ibm-plex-mono-font-family">Manutentionnaire Logistique - Viaposte</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Expédition nationale de colis (chargement et déchargement de camions) au sein d'une filiale de La Poste, à Chilly-Mazarin.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":230,"width":"258px","height":"auto","aspectRatio":"1.7766815292666729","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-2.png?w=334" alt="Logo de la prefecture" class="wp-image-230" style="aspect-ratio:1.7766815292666729;width:258px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Juin 2024</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Stagiaire - DDT 91 / Préfecture d'Évry</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Classement d'atlas et de cartes à l'aide d'Excel.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":231,"width":"232px","height":"auto","aspectRatio":"1.5909785932721712","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-3.png?w=778" alt="logo d'arkema et bostik " class="wp-image-231" style="aspect-ratio:1.5909785932721712;width:232px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Janvier 2024</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Intervention informatique - Arkema (Bostik)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Participation à l'installation d'un serveur physique, à Coubert.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"style":{"color":{"background":"#22252a"},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}},"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"16px","bottomRight":"16px"}}}} -->
+<div class="wp-block-columns has-background" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:16px;border-bottom-right-radius:16px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":236,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/hybrigenics_annur.png?w=347" alt="logo d'Hybrigenics" class="wp-image-236" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Mars 2023</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-primary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Stage d'observation - Hybrigenics Services d'Évry</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Observation d'un administrateur système et réseau</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Compétences</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Techniques</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Réseaux : adressage IP, notions de protocoles</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Systèmes : Windows, notions de Linux</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Web : HTML, CSS, WordPress</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Notions de cybersécurité et de virtualisation</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-secondary-color has-text-color has-link-color has-ibm-plex-mono-font-family">Professionnelles</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Travail en équipe</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Organisation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Communication</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Autonomie</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Accueil du public</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"open-sans"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-open-sans-font-family" style="color:#00ff84">Certifications </h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">4 octobre 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-ibm-plex-mono-font-family">Google AI Essentials</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"},"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Projets de formation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-secondary-color has-text-color has-space-mono-font-family has-small-font-size">Novembre - Décembre 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-ibm-plex-mono-font-family">SAÉ 14 - Se présenter sur Internet</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Conception de mon identité numérique professionnelle : création de ce site avec WordPress, d'une page personnelle en HTML hébergée sur GitHub, sauvegarde du site avec Git et réalisation d'une vidéo de présentation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"39px"} -->
+<div style="height:39px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontWeight":"400"},"color":{"text":"#00994f"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/" style="color:#00994f;font-weight:400">Voir mes projets personnels</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:29:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:29:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:38:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:38:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[experiences]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:29:45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Projets]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/projets/</link>
+		<pubDate>Mon, 23 Nov 2026 13:30:01 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"textColor":"primary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-primary-color has-text-color has-space-mono-font-family has-small-font-size">Retrouvez ici mes projets personnels et associatifs, réalisés en dehors de ma formation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"","style":{"color":{"background":"#22252a"},"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}},"spacing":{"blockGap":"","padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":207,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/capture-decran-2026-11-23-203009-1.png?w=1024" alt="Interface web de Jarvis" class="wp-image-207" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Jarvis</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Mon assistant vocal personnel, conçu en Python et à l'aide d'un assistant IA.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/jarvis/" style="font-weight:400">En savoir plus</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"","style":{"color":{"background":"#22252a"},"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}},"spacing":{"padding":{"top":"16px","right":"16px","bottom":"16px","left":"16px"}}}} -->
+<div class="wp-block-column has-background" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;background-color:#22252a;padding-top:16px;padding-right:16px;padding-bottom:16px;padding-left:16px"><!-- wp:image {"id":209,"width":"146px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf-1.jpeg?w=1024" alt="Logo de Tech'N'Fix" class="wp-image-209" style="width:146px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h3 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Tech'N'Fix</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">L'association de reconditionnement que j'ai fondée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://youssoufmohamedyf7.wordpress.com/projets/technfix/" style="font-weight:400">En savoir plus</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:30:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:54:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:54:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[projets]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:30:02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Tech'N'Fix]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/projets/technfix/</link>
+		<pubDate>Mon, 23 Nov 2026 13:30:30 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=16</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">L'association</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">J'ai fondé Tech'N'Fix en juin 2025 à Évry-Courcouronnes, et j'en suis le président. L'association reconditionne des ordinateurs pour les rendre accessibles aux personnes en situation de précarité.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Nos missions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Reconditionner et réparer du matériel informatique</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Lutter contre le gaspillage électronique</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Favoriser l'accès au numérique pour tous</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Transmettre des compétences techniques</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mon rôle</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">En tant que président, j'organise l'association, je participe au diagnostic et à la remise en état des ordinateurs, je trouve des personnes pour nous faire des dons, et j'encadre des stagiaires en tant que tuteur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"position":{"type":"sticky","top":"0px"}},"fontSize":"medium","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","orientation":"horizontal"}} -->
+<div class="wp-block-group has-medium-font-size" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"id":119,"width":"141px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/ae8dfcb6-0aa5-409e-a7e1-3687e11f54cf.jpeg?w=1024" alt="Logo de l'association Tech'N'Fix" class="wp-image-119" style="width:141px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontWeight":"400"}},"fontFamily":"space-mono"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-space-mono-font-family wp-element-button" href="https://www.instagram.com/tech_n_fix" style="font-weight:400">Découvrir Tech'N'Fix sur Instagram</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:30:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:41:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:41:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[technfix]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>14</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:30:31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Jarvis]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/projets/jarvis/</link>
+		<pubDate>Mon, 23 Nov 2026 13:30:40 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Le projet</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Jarvis est un assistant personnel que je conçois depuis novembre 2026. Mon objectif : pouvoir lui parler à voix haute et obtenir des réponses pertinentes. Je le développe en Python avec l'aide de Claude Code, un assistant de programmation par IA : je définis le projet et les fonctionnalités, je choisis les outils, puis je teste et corrige chaque étape sur mon PC.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Ce qui fonctionne déjà</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"fontFamily":"space-mono"} -->
+<ul class="wp-block-list has-space-mono-font-family"><!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Conversation avec une intelligence artificielle qui tourne en local sur mon PC (Ollama, modèle Llama 3.1)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Une voix pour répondre à l'oral (Piper)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">La reconnaissance vocale pour comprendre ce que je dis (Whisper)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Une mémoire : Jarvis retient les informations que je lui demande de garder</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small"} -->
+<li class="has-contrast-color has-text-color has-small-font-size">Une interface web pour discuter avec Jarvis</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Technologies utilisées</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<ul class="wp-block-list has-contrast-color has-text-color has-link-color"><!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Python</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Ollama</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Piper</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Whisper</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Git et GitHub</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-space-mono-font-family has-small-font-size">Claude Code (assistant IA)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:jetpack/slideshow {"ids":[115,116],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(1917 / 868)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="Interface web de Jarvis, écran d'accueil" class="wp-block-jetpack-slideshow_image wp-image-115" data-id="115" data-aspect-ratio="1917 / 868" src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/capture-decran-2026-11-23-203009.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="Jarvis en train de répondre à une question" class="wp-block-jetpack-slideshow_image wp-image-116" data-id="116" data-aspect-ratio="1917 / 877" src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/capture-decran-2026-11-23-203106.png" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:30:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:30:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:39:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:39:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jarvis]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>14</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:30:41]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/blog/</link>
+		<pubDate>Mon, 23 Nov 2026 13:31:19 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:31:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:31:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:23:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:23:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:31:19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/contact/</link>
+		<pubDate>Mon, 23 Nov 2026 13:31:30 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/?page_id=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation {"ref":4,"textColor":"secondary","fontFamily":"space-mono","layout":{"type":"flex","justifyContent":"center"}} /-->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"textColor":"primary","fontSize":"small","fontFamily":"space-mono"} -->
+<p class="has-primary-color has-text-color has-space-mono-font-family has-small-font-size">Vous avez une question ? N'hésitez pas à m'écrire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mes coordonnées</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">E-mail : <a href="mailto:myf.youssouf91@gmail.com">myf.youssouf91@gmail.com</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size">Localisation : Évry-Courcouronnes (Essonne)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Mes réseaux</h2>
+<!-- /wp:heading -->
+
+<!-- wp:social-links {"showLabels":true,"className":"is-style-pill-shape","layout":{"type":"flex","justifyContent":"left"}} -->
+<ul class="wp-block-social-links has-visible-labels is-style-pill-shape"><!-- wp:social-link {"url":"https://www.linkedin.com/in/youssouf-mohamed-yf","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://github.com/youss-moha91","service":"github"} /-->
+
+<!-- wp:social-link {"url":"mailto:myf.youssouf91@gmail.com","service":"mail"} /--></ul>
+<!-- /wp:social-links -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#00ff84"}}},"color":{"text":"#00ff84"}},"fontFamily":"ibm-plex-mono"} -->
+<h2 class="wp-block-heading has-text-color has-link-color has-ibm-plex-mono-font-family" style="color:#00ff84">Ma formation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://iut.u-pec.fr">IUT de Créteil-Vitry</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://www.u-pec.fr">Université Paris-Est Créteil</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"textColor":"contrast","fontSize":"small","fontFamily":"space-mono"} -->
+<li class="has-contrast-color has-text-color has-space-mono-font-family has-small-font-size"><a href="https://www.formadep360.fr/Extra/extra_edt?dep=14">Mon emploi du temps</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:31:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:31:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 22:58:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 21:58:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elasticsearch_data_sharing_indexed_on]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-11-23 13:31:30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[286855168]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1891,19 +2232,19 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <p class="has-space-mono-font-family has-small-font-size">Un site en ligne est visible par tout le monde donc il faut faire attention à ce que l'on publie. J'ai par exemple décidé de ne pas afficher mon numéro de téléphone, pour protéger ma vie privée.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"></p>
-<!-- /wp:paragraph -->
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+<!-- wp:image {"id":205,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image.png?w=1024" alt="Les différents blocs de ma page d'accueil." class="wp-image-205" /></figure>
+<!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 21:04:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 20:04:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:31:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:31:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 10:36:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 09:36:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[creer-son-site-wordpress-ce-que-jai-appris]]></wp:post_name>
@@ -1988,14 +2329,14 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":146,"width":"241px","height":"auto","aspectRatio":"0.5102780435475921","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/img_7700.jpeg?w=522" alt="" class="wp-image-146" style="aspect-ratio:0.5102780435475921;width:241px;height:auto" /><figcaption class="wp-element-caption">L'intérieur d'une tour</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/img_7700.jpeg?w=522" alt="L'intérieur d'une tour d'ordinateur" class="wp-image-146" style="aspect-ratio:0.5102780435475921;width:241px;height:auto" /><figcaption class="wp-element-caption">L'intérieur d'une tour</figcaption></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2026-11-23 21:09:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-11-23 20:09:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-11-23 22:28:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-11-23 21:28:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:55:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:55:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[reconditionner-un-ordinateur-les-grandes-etapes]]></wp:post_name>
@@ -2034,6 +2375,199 @@ Youssouf MOHAMED YACOB FARIZ</code></pre>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/image-4/</link>
+		<pubDate>Tue, 24 Nov 2026 11:25:06 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image-3.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>231</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:25:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:25:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:25:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:25:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-3.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-3.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:778;s:6:"height";i:489;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-3.png";s:8:"filesize";i:70565;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/image-5/</link>
+		<pubDate>Tue, 24 Nov 2026 11:28:30 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image-4.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>233</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:28:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:28:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:28:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:28:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-4.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-4.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:475;s:6:"height";i:354;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-4.png";s:8:"filesize";i:12106;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/image-6/</link>
+		<pubDate>Tue, 24 Nov 2026 11:28:54 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image-4-edited.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>234</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:28:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:28:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:28:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:28:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-6]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-4-edited.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-4-edited.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:356;s:6:"height";i:96;s:4:"file";s:91:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-4-edited.png";s:8:"filesize";i:15605;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:12:"parent_image";a:2:{s:13:"attachment_id";s:3:"233";s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-4.png";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_edit_root_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[image]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/image-7/</link>
+		<pubDate>Tue, 24 Nov 2026 11:29:49 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/image-5.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>235</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:29:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:29:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:29:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:29:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-7]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/image-5.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-5.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:475;s:6:"height";i:354;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/image-5.png";s:8:"filesize";i:12106;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[hybrigenics_annur]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/experiences/hybrigenics_annur/</link>
+		<pubDate>Tue, 24 Nov 2026 11:30:01 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">http://youssoufmohamedyf7.files.wordpress.com/2026/11/hybrigenics_annur.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>236</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-24 12:30:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-24 11:30:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-24 12:30:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-24 11:30:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hybrigenics_annur]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://youssoufmohamedyf7.wordpress.com/wp-content/uploads/2026/11/hybrigenics_annur.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/hybrigenics_annur.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:347;s:6:"height";i:88;s:4:"file";s:94:"/home/wpcom/public_html/wp-content/blogs.dir/8ed/258919134/files/2026/11/hybrigenics_annur.png";s:8:"filesize";i:10512;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://youssoufmohamedyf7.wordpress.com/2026/11/23/navigation/</link>
+		<pubDate>Mon, 23 Nov 2026 13:04:50 +0000</pubDate>
+		<dc:creator><![CDATA[myfyoussouf91]]></dc:creator>
+		<guid isPermaLink="false">https://youssoufmohamedyf7.wordpress.com/2026/11/23/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-23 14:04:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-23 13:04:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-23 16:27:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-23 15:27:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 				</channel>
 </rss>
 	
